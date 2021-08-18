@@ -40,5 +40,5 @@
 </div>  
   
 <br/> 
- <h1>Github Stats</h1> 
+ <h2>Github Stats</h2> 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=1244-agustinborquez&theme=radical&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
