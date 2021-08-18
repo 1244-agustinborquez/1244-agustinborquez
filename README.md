@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on my final project to finish Henry Bootcamp.  
   
 
-- 🌱 I’m currently learning Typescript and Tailwind.  
+- 🌱 I’m currently learning Typescript and MongoDB.  
   
 
 - 🧠 I'm currently interested on start working in the industry.  
