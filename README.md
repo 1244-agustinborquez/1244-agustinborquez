@@ -28,7 +28,7 @@
  <h2>My Soft-Skilss</h2>
 
 <div align="center">
-<img src="skills.png" align="center" style="width: 60%" "height : 50%" />
+<img src="softSkills.png" align="center" style="width: 60%" "height : 50%" />
 </div>
 <br/>  
 
