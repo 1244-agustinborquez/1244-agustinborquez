@@ -39,5 +39,6 @@
 </a>  
 </div>  
   
-
-<br/>  
+<br/> 
+## stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1244-agustinborquez&name=radical)
