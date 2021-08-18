@@ -16,6 +16,13 @@
 
 - ✉️ How to reach me  on Email at [Agustín Borquez](mailto:agustinborquez1999@hotmail.com)  
   
+<br/>
+
+<h2>My Skilss</h2>
+
+<div align="center">
+<img src="header.png" align="center" style="width: 60%" "height : 50%" />
+</div>
 
 <br/>  
 
