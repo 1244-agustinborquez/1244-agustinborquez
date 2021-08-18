@@ -21,7 +21,7 @@
 <h2>My Skilss</h2>
 
 <div align="center">
-<img src="header.png" align="center" style="width: 60%" "height : 50%" />
+<img src="Skills.png" align="center" style="width: 60%" "height : 50%" />
 </div>
 
 <br/>  
