@@ -40,5 +40,5 @@
 </div>  
   
 <br/> 
-## Github Stats 
+### Github Stats 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=1244-agustinborquez&theme=radical&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
