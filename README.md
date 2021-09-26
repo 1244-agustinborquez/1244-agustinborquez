@@ -5,7 +5,7 @@
 
   
 
-- 🔭 I’m currently working on my final project to finish Henry Bootcamp.  
+- 🔭 at this moment I am expanding my experience and skills to get my first job in the world of programming.  
   
 
 - 🌱 I’m currently learning Typescript and MongoDB.  
