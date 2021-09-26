@@ -5,7 +5,7 @@
 
   
 
-- 🔭 at this moment I am expanding my experience and skills to get my first job in the world of programming.  
+- 🔭 At this moment I am expanding my experience and skills to get my first job in the world of programming.  
   
 
 - 🌱 I’m currently learning Typescript and MongoDB.  
