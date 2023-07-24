@@ -8,7 +8,7 @@
 - 🔭 At this moment I am expanding my experience and skills to get my first job in the world of programming.  
   
 
-- 🌱 I’m currently learning Typescript and MongoDB.  
+- 🌱 I’m currently learning full stack developer.  
   
 
 - 🧠 I'm currently interested on start working in the industry.  
@@ -18,7 +18,7 @@
   
 <br/>
 
-<h2>My Skills</h2>
+<!-- <h2>My Skills</h2>
 
 <div align="center">
 <img src="skills.png" align="center" style="width: 60%" "height : 50%" />
@@ -30,7 +30,7 @@
 <div align="center">
 <img src="softSkills.png" align="center" style="width: 60%" "height : 50%" />
 </div>
-<br/>  
+<br/>  sdaf -->
 
 
 ## Connect with me  
